@@ -20,7 +20,7 @@ This project serves as a comprehensive introduction to Docker, covering essentia
 
 (ss.png)
 
-Replace `path/to/your/screenshot.png` with the actual path to your screenshot.
+
 
 ## How to Run
 
