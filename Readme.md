@@ -18,8 +18,9 @@ This project serves as a comprehensive introduction to Docker, covering essentia
 - **Publishing Custom Images to hub.docker.com**: Uploading custom Docker images to Docker Hub.
 - **Docker Compose**: Introduction to Docker Compose for managing multi-container applications.
 
-(ss.png)
+## Screenshots
 
+![Docker Project Screenshot](ss.png)
 
 
 ## How to Run
